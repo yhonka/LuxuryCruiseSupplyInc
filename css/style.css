@@ -211,6 +211,12 @@ a:focus,
   color: #fff;
   background-color: #b8ae74;
 }
+.app-whatsapp {
+  color: white;
+}
+.app-whatsapp:hover {
+  color: #3c4b80;
+}
 /* Header Section */
 .intro {
   display: table;
