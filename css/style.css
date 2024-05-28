@@ -46,6 +46,11 @@ a:focus {
   text-decoration: none;
   color: #222;
 }
+
+a.map:hover,
+a.map:focus {
+  color: #b8ae74 !important;
+}
 ul,
 ol {
   list-style: none;
@@ -627,6 +632,7 @@ label {
   margin-bottom: 6px;
   display: inline-block;
 }
+
 #contact .contact-item p {
   font-size: 16px;
 }
@@ -689,4 +695,8 @@ label {
 }
 #footer a:hover {
   color: #333;
+}
+
+#footer .contact-item:hover {
+  color: #c01515;
 }
